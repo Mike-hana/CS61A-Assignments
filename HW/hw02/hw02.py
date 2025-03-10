@@ -34,6 +34,7 @@ def product(n, term):
     "*** YOUR CODE HERE ***"
 
 
+
 def accumulate(fuse, start, n, term):
     """Return the result of fusing together the first n terms in a sequence 
     and start.  The terms to be fused are term(1), term(2), ..., term(n). 
